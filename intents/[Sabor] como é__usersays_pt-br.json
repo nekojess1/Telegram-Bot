@@ -1,0 +1,36 @@
+[
+  {
+    "id": "f4f99174-fa3c-4fe3-8aca-bed539f9c239",
+    "data": [
+      {
+        "text": "Qual o sabor de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " cerveja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "054dcf6c-59c0-497f-949b-ec08287cefcb",
+    "data": [
+      {
+        "text": "sabor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
