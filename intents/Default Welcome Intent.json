@@ -1,0 +1,48 @@
+{
+  "id": "ef404bc0-9744-443c-853b-56c7547e57c8",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "pt-br",
+          "condition": "",
+          "title": "Olá! Eu sou Stella, sou uma assistente virtual especialista em cerveja. Estou aqui para te ajudar, explicando como é feito o processo de criação da cerveja.",
+          "replies": [
+            "Produção",
+            "Ingredientes",
+            "Sabor"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "Olá! Eu sou Stella, sou uma assistente virtual especialista em cerveja. Estou aqui para te ajudar, explicando como é feito o processo de criação da cerveja."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

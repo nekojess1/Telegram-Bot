@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ed37f7a9-b6ec-4619-a407-9d0333b24ddc",
+    "data": [
+      {
+        "text": "Produção",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "399259d5-9de8-4cbe-a1e0-06f9141d9723",
+    "data": [
+      {
+        "text": "quero saber fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " cerveja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e96628e0-0a52-4416-90a9-2afe20e390e3",
+    "data": [
+      {
+        "text": "Como se faz ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " cerveja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dda99297-d0df-49d1-9934-5ed1dc1fafbb",
+    "data": [
+      {
+        "text": "Fabricação da cerveja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1572bb3-2bc8-47fe-9420-e4aa76c33e3f",
+    "data": [
+      {
+        "text": "Fabricação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

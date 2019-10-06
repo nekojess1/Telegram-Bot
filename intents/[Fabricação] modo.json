@@ -1,0 +1,56 @@
+{
+  "id": "392c1269-1b94-493a-90da-6c30822327f7",
+  "name": "[Fabricação] modo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c8c0c120-ca8a-4f45-9f60-0baab99bccb7",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "pt-br",
+          "condition": "",
+          "title": "Posso te ajudar em mais alguma coisa?",
+          "replies": [
+            "Voltar ao menu"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "condition": "",
+          "speech": "Para produzir cervejas artesanais são usados três processos básicos: mostura, fervura e fermentação. A mostura e fervura quase sempre acontecem no mesmo dia, já a fermentação pode durar uma ou algumas semanas, dependendo de cada cerveja. \n\nFonte: beerbier.com.br/blog/como-funciona-fabricacao-cerveja/"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
