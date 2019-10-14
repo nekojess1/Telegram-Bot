@@ -4,7 +4,7 @@
 
 ### Now you have to talk with the @botFather on Telegram to create your bot and to get your token.
 
-<img src="https://i.ibb.co/N1VkSkq/gettoken.png" width="500" height="400">
+<img src="https://i.ibb.co/N1VkSkq/gettoken.png" width="390" height="400">
 
 ### Once this is done, go to the dialog flow to build the conversation interface of your bot.
 
