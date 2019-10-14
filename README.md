@@ -16,7 +16,7 @@ A screen similar to this should now appear. This is where all the "magic" will h
 <img src="https://i.ibb.co/CnkscqY/initialdg.png" width="700" height="400" >
 
 * Click on "Integrations" in the side menu. There will appear several applications that dialog flow can do integration.
-* Click on the switch telegram. A box will appear where you will add the token acquired at the beginning of the tutorial by botFather.
+* Click on the switch telegram. A box will appear where you will add the token acquired at the beginning of the tutorial.
 
 ### Added the token, click "start".
 
