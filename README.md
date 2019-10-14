@@ -1,6 +1,6 @@
 # How to make a bot for telegram :iphone: 🤖
 
-### First you need to make an account on [DialogFlow](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiG94b-nJrlAhWWH7kGHfn1BfsQFjAAegQICBAC&url=https%3A%2F%2Fdialogflow.com%2F&usg=AOvVaw3iZls3qgojxCPzBzYjQwrV).
+### First you need to create an account on [DialogFlow](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiG94b-nJrlAhWWH7kGHfn1BfsQFjAAegQICBAC&url=https%3A%2F%2Fdialogflow.com%2F&usg=AOvVaw3iZls3qgojxCPzBzYjQwrV).
 
 ### Now you have to talk with the @botFather on Telegram to create your bot and to get your token.
 
