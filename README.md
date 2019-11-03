@@ -25,8 +25,8 @@ Uma tela similar a essa deve aparecer. É aqui que acontece toda a mágica para 
 ### __O problema é que ainda não ensinamos nada para o bichinho, ele está funcionando apenas com as "intents" já criadas pelo Dialogflow.
 
 ### "Okay, Jéssica, mas o que danado é "intent"?
-##### Uma intent é onde se define um certo comportamento, tipo quando você está usando um aplicativo e clica no notão "Cadastrar". Você espera que seja direcionado a uma tela de cadastro, certo?
-##### No caso do Dialogflow, é nas intents que vamos adicionar as respostas para as frases ditas pelo usuário. Por exemplo: Quando o usuário falar "Oi", ele espera o comportamento de que o bot o cumprimente também. E são nas intents que vamos treinar o nosso bot para saber responder a respectivas coisas.
+Uma intent é onde se define um certo comportamento, tipo quando você está usando um aplicativo e clica no notão "Cadastrar". Você espera que seja direcionado a uma tela de cadastro, certo?
+No caso do Dialogflow, é nas intents que vamos adicionar as respostas para as frases ditas pelo usuário. Por exemplo: Quando o usuário falar "Oi", ele espera o comportamento de que o bot o cumprimente também. E são nas intents que vamos treinar o nosso bot para saber responder a respectivas coisas.
 
 <img src="https://i.ibb.co/VVsLy9J/initialdg.png" width="400" height="400" >
 
@@ -42,7 +42,7 @@ Uma tela similar a essa deve aparecer. É aqui que acontece toda a mágica para 
 
 <img src="https://i.ibb.co/NxVdv5R/initialdg.png" width="500" height="400" >
 
-### A medida que você for adicionando o que deseja, clique em "Save". O treinamento é instantâneo, assim que você salvar, já pode ir falar com o seu bot, ele já vai ter aprendido o que você ensinou.
+### A medida que você for adicionando o que deseja, clique em "Save". O treinamento é instantâneo, assim que você salvar, já pode ir falar com o seu bot, e ele já vai ter aprendido o que você ensinou.
 
 ## That's all, folks. :blush: 
 
