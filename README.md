@@ -35,7 +35,7 @@ Uma tela similar a essa deve aparecer. É aqui que acontece toda a mágica para 
 2. Clique em "Create intent". 
 
 
-### Agora você pode começar a treinar o seu bot. Na foto a seguir, meu bot vai responder um breve texto sobre a  primeira lei de ohm, quando alguém perguntar algo relacionado a ela. Eu adicionei mais de uma expressão, para que ele tenha mais facilidade em compreender o que o usuário deseja. 
+### Agora você pode começar a treinar o seu bot. Na foto a seguir, meu bot está sendo treinado para responder um breve texto sobre a  primeira lei de ohm, quando alguém perguntar algo relacionado a ela. Eu adicionei mais de uma expressão, para que ele tenha mais facilidade em compreender o que o usuário deseja. 
 <img src="https://i.ibb.co/17wyzNm/initialdg.png" width="700" height="400" >
 
 ### Crie uma intent para cada ação do seu bot, dando mais treinamento para ele.
