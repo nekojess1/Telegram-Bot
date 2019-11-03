@@ -16,7 +16,7 @@ Uma tela similar a essa deve aparecer. É aqui que acontece toda a mágica para 
 <img src="https://i.ibb.co/CnkscqY/initialdg.png" width="700" height="400" >
 
 * Clique em "Integrations" no menu lateral. Vão aparecer diversas aplicações, na qual o Dialogflow pode fazer integração.
-* Agora marque a opção do telegram. Após ter marcado, uma caixa vai aparecer pedindo aquele token que adquirimos lá no inicio com o @botfater.
+* Agora marque a opção do telegram. Após ter marcado, uma caixa vai aparecer pedindo aquele token que adquirimos lá no inicio com o @botfather.
 
 ### Após adicionar o token, clique em "start".
 
