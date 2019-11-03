@@ -1,41 +1,48 @@
-# How to make a bot for telegram :iphone: 🤖
+# Como fazer um bot para o Telegram :iphone: 🤖
 
-### First you need to create an account on [DialogFlow](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiG94b-nJrlAhWWH7kGHfn1BfsQFjAAegQICBAC&url=https%3A%2F%2Fdialogflow.com%2F&usg=AOvVaw3iZls3qgojxCPzBzYjQwrV).
+### Primeiro você precisa ter uma conta no [DialogFlow](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiG94b-nJrlAhWWH7kGHfn1BfsQFjAAegQICBAC&url=https%3A%2F%2Fdialogflow.com%2F&usg=AOvVaw3iZls3qgojxCPzBzYjQwrV).
 
-### Now you have to talk with the @botFather on Telegram to create your bot and to get your token.
+### Agora vá no Telegram e procure pelo @botFather para criar o bot e pegar o seu token.
 
 <img src="https://i.ibb.co/N1VkSkq/gettoken.png" width="390" height="400">
 
-### Once this is done, go to the dialog flow to build the conversation interface of your bot.
+### Uma vez que isso foi feito, vá para o Dialogflow para "dar vida" ao seu bot, treinando ele. 
 
-### __Now, follow these steps:__
+### __Agora, siga esses passos:__
 
-* Click on "Create a new agent". 
-* Fill in the requested data and click in the "Create" button. 
-A screen similar to this should now appear. This is where all the "magic" will happen for your bot to work. 
+* Clique em "Create a new agent". 
+* Preencha os dados desejados e clique em "create".
+Uma tela similar a essa deve aparecer. É aqui que acontece toda a mágica para o funcionamento do seu bot. 
 <img src="https://i.ibb.co/CnkscqY/initialdg.png" width="700" height="400" >
 
-* Click on "Integrations" in the side menu. There will appear several applications that dialog flow can do integration.
-* Click on the switch telegram. A box will appear where you will add the token acquired at the beginning of the tutorial.
+* Clique em "Integrations" no menu lateral. Vão aparecer diversas aplicações, na qual o Dialogflow pode fazer integração.
+* Agora marque a opção do telegram. Após ter marcado, uma caixa vai aparecer pedindo aquele token que adquirimos lá no inicio com o @botfater.
 
-### Added the token, click "start".
+### Após adicionar o token, clique em "start".
 
-### Now you can close the box. Your agent is ready to work on the Telegram.
+### Agora você já pode fechar a caixinha. O seu agente do Dialogflow está pronto para "trabalhar no Telegram".
 
-### __But we don't teach him anything, so it will only work with the intents already created by Dialogflow.__
+### __O problema é que ainda não ensinamos nada para o bichinho, ele está funcionando apenas com as "intents" já criadas pelo Dialogflow.
+
+### "Okay, Jéssica, mas o que danado é "intent"?
+##### Uma intent é onde se define um certo comportamento, tipo quando você está usando um aplicativo e clica no notão "Cadastrar". Você espera que seja direcionado a uma tela de cadastro, certo?
+##### No caso do Dialogflow, é nas intents que vamos adicionar as respostas para as frases ditas pelo usuário. Por exemplo: Quando o usuário falar "Oi", ele espera o comportamento de que o bot o cumprimente também. E são nas intents que vamos treinar o nosso bot para saber responder a respectivas coisas.
 
 <img src="https://i.ibb.co/VVsLy9J/initialdg.png" width="400" height="400" >
 
-## __For create the intents, follow this steps:__
-1. Click in "Intents" in the side menu. 
-2. Click in Create new intents. 
+## __Para criar as intents, siga esses passos:__
+1. Clique em "Intents" no menu lateral. 
+2. Clique em "Create intent". 
 
-### By creating an intent, you can train your bot to perform actions. In the photo below, my bot will answer a certain answer when someone asks something about Ohm's first law. I added more than one sentence to make it smarter. Being able to identify several forms of the same question. 
+
+### Agora você pode começar a treinar o seu bot. Na foto a seguir, meu bot vai responder um breve texto sobre a  primeira lei de ohm, quando alguém perguntar algo relacionado a ela. Eu adicionei mais de uma expressão, para que ele tenha mais facilidade em compreender o que o usuário deseja. 
 <img src="https://i.ibb.co/17wyzNm/initialdg.png" width="700" height="400" >
 
-### Create an intent for each action your bot takes, giving more and more training to your bot.
+### Crie uma intent para cada ação do seu bot, dando mais treinamento para ele.
 
 <img src="https://i.ibb.co/NxVdv5R/initialdg.png" width="500" height="400" >
+
+### A medida que você for adicionando o que deseja, clique em "Save". O treinamento é instantâneo, assim que você salvar, já pode ir falar com o seu bot, ele já vai ter aprendido o que você ensinou.
 
 ## That's all, folks. :blush: 
 
