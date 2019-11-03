@@ -26,7 +26,7 @@ Uma tela similar a essa deve aparecer. É aqui que acontece toda a mágica para 
 
 ### "Okay, Jéssica, mas o que danado é "intent"?
 Uma intent é onde se define um certo comportamento, tipo quando você está usando um aplicativo e clica no notão "Cadastrar". Você espera que seja direcionado a uma tela de cadastro, certo?
-No caso do Dialogflow, é nas intents que vamos adicionar as respostas para as frases ditas pelo usuário. Por exemplo: Quando o usuário falar "Oi", ele espera o comportamento de que o bot o cumprimente também. E são nas intents que vamos treinar o nosso bot para saber responder a respectivas coisas.
+No caso do Dialogflow, é nas intents que vamos adicionar as respostas para as frases ditas pelo usuário. Por exemplo: Quando o usuário fala "Oi" para o bot, ele espera o mesmo dê boas vindas a ele. E são nas intents que vamos treinar o nosso bot para saber responder a respectivas coisas.
 
 <img src="https://i.ibb.co/VVsLy9J/initialdg.png" width="400" height="400" >
 
